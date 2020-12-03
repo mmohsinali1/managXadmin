@@ -1,0 +1,1 @@
+export const BASE_URl = "https://managex.ae/api-gateway/";
